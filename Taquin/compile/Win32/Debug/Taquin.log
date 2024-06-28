@@ -1,0 +1,7 @@
+﻿  TaquinSDL.c
+C:\Users\Luan\Desktop\TP INFO TAQUIN\Taquin\Taquin\TaquinSDL.c(59,25): warning C4013: 'IMG_Load' non défini(e) ; extern retournant int pris par défaut
+C:\Users\Luan\Desktop\TP INFO TAQUIN\Taquin\Taquin\TaquinSDL.c(59,37): warning C4047: 'fonction' : les niveaux d'indirection de 'SDL_Surface *' et de 'int' sont différents
+C:\Users\Luan\Desktop\TP INFO TAQUIN\Taquin\Taquin\TaquinSDL.c(59,25): warning C4024: 'SDL_WM_SetIcon' : types différents pour le paramètre formel et réel 1
+C:\Users\Luan\Desktop\TP INFO TAQUIN\Taquin\Taquin\TaquinSDL.c(386): warning C4715: 'posXCaseNoire' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Luan\Desktop\TP INFO TAQUIN\Taquin\Taquin\TaquinSDL.c(395): warning C4715: 'posYCaseNoire' : les chemins de contrôle ne retournent pas tous une valeur
+  Taquin.vcxproj -> C:\Users\Luan\Desktop\TP INFO TAQUIN\Taquin\bin_Win32\Taquin_d.exe
